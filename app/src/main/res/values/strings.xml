@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ex2</string>
+    <string name="list_item">new list item</string>
+    <string name="button_add">ADD</string>
+</resources>
